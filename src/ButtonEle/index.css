@@ -1,0 +1,21 @@
+.li-ele {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+}
+.fill-red {
+  background-color: #db1c48;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 0px;
+  padding: 8px;
+}
+.no-fill {
+  background-color: #ffffff;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+  border-radius: 5px;
+  padding: 8px;
+}
